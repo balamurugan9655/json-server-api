@@ -35,7 +35,7 @@
         },
         {
             "id": 4,
-            "text": "What will be the Output of following Javascript Code ?\nconsole.log(\"10\" - \"5\" + 2);\t\t// Arithmetic operator\nconsole.log(3 >= 3 || 7 < -5);\t\t\t\t// Logical operator\nconsole.log(5 ^ 3);\t\t\t\t// Bitwise operator\nconsole.log(~66);\t\t// One's complement",
+            "text": "What will be the Output of following Javascript Code ?\nconsole.log(\"10\" - \"5\" + 2);\t\t// Arithmetic operator\nconsole.log(3 >= 3 || 7 < -5);\t\t\t// Logical operator\nconsole.log(5 ^ 3);\t\t\t\t// Bitwise operator\nconsole.log(~66);\t\t\t// One's complement",
             "options": [
                 "(42 , False , 6 , -67)",
                 "( 7 , True , 3 , -65)",
