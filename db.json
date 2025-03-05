@@ -35,14 +35,14 @@
         },
         {
             "id": 4,
-            "text": "console.log(typeof NaN);",
+            "text": "What will be the Output of following Javascript Code ?\nconsole.log(\"10\" - \"5\" + 2);\t// Arithmetic operator\nconsole.log(3 >= 3 || 7 < -5);\t// Logical operator\nconsole.log(5 ^ 3);\t\t// Bitwise operator\nconsole.log(~66);\t\t// One's complement",
             "options": [
-                " \"number\"",
-                "\"NaN\"",
-                "\"undefined\"",
-                "\"object\""
+                "(42 , False , 6 , -67)",
+                "( 7 , True , 3 , -65)",
+                "( 7 , True , 6 , 67 )",
+                "( 7 , True , 6 , -67)"
             ],
-            "answer": " \"number\""
+            "answer": "( 7 , True , 6 , -67)"
         },
         {
             "id": 5,
